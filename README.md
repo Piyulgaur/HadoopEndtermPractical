@@ -1,1 +1,1 @@
-# HadoopEndtermPractical
+# Hadoop Endterm Practical Exam
